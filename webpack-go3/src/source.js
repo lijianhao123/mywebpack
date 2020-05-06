@@ -1,1 +1,0 @@
-export default 'hanke234567'
